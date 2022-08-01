@@ -1,4 +1,4 @@
-## Hi, I'm Alexandr 👋🏼 👨‍💻
+## Hello, I'm Alexandr👋🏼
 
 I'm a Frontend developer from Russia and I'm passionate about creating colorful websites that people remember. 
 
