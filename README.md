@@ -8,4 +8,3 @@ My current stack: React JS, React Toolkit, Redux Thunk, TypeScript, JavaScript, 
 
 [![Arkhipov's GitHub stats](https://github-readme-stats.vercel.app/api?username=HODOR72&theme=radical)](https://github.com/HODOR72)
 #
-Portfolio - http://alexalow.beget.tech
